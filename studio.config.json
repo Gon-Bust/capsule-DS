@@ -13,7 +13,15 @@
       [
         "INFRASTRUCTURE",
         []
-      ]
+      ],
+      "sd.config.cjs",
+      "sd.config.cjs"
     ]
+  },
+  "dependencies": {
+    "autoInstall": false
+  },
+  "doc": {
+    "markdownEngine": "mdjs"
   }
 }
